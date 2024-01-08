@@ -23,6 +23,10 @@
 ---
 
 ### Задание 1
+```
+rsync -aczh --progress --exclude '.*/' . /tmp/backup/
+```
+
 ![image](https://github.com/duha2060/rsync/assets/80347708/d669fc28-6fe8-47ed-a58f-29ee5254fcc6)
 
 ---
